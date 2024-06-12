@@ -1,0 +1,17 @@
+PROJECT INFO :
+
+Html Admin Dashboard to Dynamic Software Development
+
+Project Name : ASIAN CAFE Billing Software.
+
+Backend Language : Raw PHP,Ajax,Javascript.
+
+Database : Mysql.
+
+Materials: Xammp,Sublime++,html Admin dashboard.
+
+Login Url: http://localhost/ASIANCAFE/
+
+User ID : 202210186
+
+Password : 123456
